@@ -9,16 +9,17 @@ Solution:<br />
 
 Where:<br />
 
-p(t) - infected <br />
+p(t) - infected people <br />
 ![equation](https://latex.codecogs.com/gif.latex?\beta) - probability that healthy pearson will be infected <br />
 ![equation](https://latex.codecogs.com/gif.latex?\gamma) - probability that infected pearson will recover <br />
 k - degree of a graph <br />
 
 We can also define: <br />
 ![equation](https://latex.codecogs.com/gif.latex?\lambda&space;=&space;\frac{\beta}{\gamma}) <br />
-![equation](https://latex.codecogs.com/gif.latex?\lambda_c&space;=&space;\frac{1}{k}) <br /r>
+![equation](https://latex.codecogs.com/gif.latex?\lambda_c&space;=&space;\frac{1}{k}) <br />
 
-![equation](https://latex.codecogs.com/gif.latex?\lambda) is tempo of an epidemic spread
+![equation](https://latex.codecogs.com/gif.latex?\lambda) is a tempo of an epidemic spread <br />
+
 ![equation](https://latex.codecogs.com/gif.latex?\lambda_C) is a ciritical value of epidemic spread
 
  
