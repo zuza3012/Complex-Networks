@@ -1,0 +1,1 @@
+Program creates weighted-evolving network, based on paper: Weighted Evolving Networks:Coupling Topology and Weight Dynamics, by A. Barrat, M. Barthelemy, A. Vespignani[source](https://arxiv.org/abs/cond-mat/0401057).
